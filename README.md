@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ![gitub state](https://github-readme-stats.vercel.app/api?username=Junlingon&show_icons=true&count_private=true)
 
-![](https://activity-graph.herokuapp.com/graph?username=Junlingon&theme=github)
+![''](https://activity-graph.herokuapp.com/graph?username=Junlingon&theme=github)
