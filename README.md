@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ![gitub state](https://github-readme-stats.vercel.app/api?username=Junlingon&show_icons=true&count_private=true)
 
-[![Junlingon's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Junlingon&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Junlingon's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Junlingon&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
